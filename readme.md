@@ -1,3 +1,5 @@
+# About This Project
+
 When a User clicks on his/her browser window, a random color will change, 
 in every click there will be any random color in the background.
 
